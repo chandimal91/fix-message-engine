@@ -1,0 +1,16 @@
+20200415-07:13:47: Session FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200415-07:13:47: Created session: FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE
+20200415-07:13:47: No responder, not sending message: 8=FIX.4.29=10035=A34=149=MY-INITIATOR-CLIENT152=20200415-07:13:47.49956=MY-ACCEPTOR-SERVICE98=0108=30141=Y10=097
+20200415-07:13:49: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200415-07:13:54: Pending connection not established after 2003 ms.
+20200415-07:13:55: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200415-07:13:59: Pending connection not established after 2000 ms.
+20200415-07:14:00: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200415-07:14:04: Pending connection not established after 2001 ms.
+20200415-07:14:05: java.net.ConnectException: java.net.ConnectException: Connection refused: no further information (Next retry in 5000 milliseconds)
+20200415-07:14:48: Session FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20200415-07:14:48: Created session: FIX.4.2:MY-INITIATOR-CLIENT1->MY-ACCEPTOR-SERVICE
+20200415-07:14:48: No responder, not sending message: 8=FIX.4.29=10035=A34=149=MY-INITIATOR-CLIENT152=20200415-07:14:48.71856=MY-ACCEPTOR-SERVICE98=0108=30141=Y10=093
+20200415-07:14:50: Initiated logon request
+20200415-07:14:50: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20200415-07:14:50: Received logon
